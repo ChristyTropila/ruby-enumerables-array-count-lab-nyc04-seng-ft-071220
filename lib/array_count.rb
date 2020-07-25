@@ -1,3 +1,5 @@
+array=["christy", "joby", 39, nil, 0, ""]
+
 def count_strings(array)
 
 
